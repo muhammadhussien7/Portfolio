@@ -216,12 +216,12 @@ section {
     margin-top: 10px;
 }
 
-.more-details {
+.visit {
     text-decoration: none;
     color: #601cfc;
 }
 
-.more-details:hover {
+.visit:hover {
     color: #601cfc;
 }
 
